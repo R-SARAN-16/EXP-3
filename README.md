@@ -50,5 +50,5 @@ Quantity
 
 <img width="1033" height="346" alt="image" src="https://github.com/user-attachments/assets/bc80baf2-2fd7-4697-85b3-868965c0fd4c" />
 
-RESULT:
+# RESULT:
 Thus the staircase wiring is connected and tested.
