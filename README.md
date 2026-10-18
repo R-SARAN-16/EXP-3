@@ -45,7 +45,7 @@ Quantity
 <img width="1023" height="350" alt="image" src="https://github.com/user-attachments/assets/bf648675-3fb1-4871-a8c6-d5ac029974c8" />
 
 	
-#Cross connection: CIRCUIT DIAGRAM:
+# Cross connection: CIRCUIT DIAGRAM:
 <img width="1050" height="363" alt="image" src="https://github.com/user-attachments/assets/e9e4208c-a755-4eaa-8aee-d4601ec4906f" />
 
 <img width="1033" height="346" alt="image" src="https://github.com/user-attachments/assets/bc80baf2-2fd7-4697-85b3-868965c0fd4c" />
